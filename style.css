@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  background-color: rgb(255, 255, 83);
+}
+
+
+
+body {
+ background-image: url(https://img.freepik.com/free-vector/abstract-white-shapes-background_79603-1362.jpg?w=2000);
+  background-size : cover;
+  border: 1px solid;
+  background-attachment:initial;
+ 
+}

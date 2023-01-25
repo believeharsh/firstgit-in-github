@@ -1,0 +1,21 @@
+.box {
+    background-color: red;
+    font-size: 35px;
+    height: 50vh; 
+}
+.box2 {
+    background-color: blueviolet;
+    font-size: 20px;
+    width: 50vw;
+}
+.box3 
+{
+    background-color: aqua;
+    min-height:75vh ;
+    width: 50vw;
+}
+.box4 {
+    background-color: rgb(165, 26, 2);
+    width:25vw;
+    height: 35vh;
+}
